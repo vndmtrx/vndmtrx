@@ -47,8 +47,6 @@ Maricona, quarentona, gay e cis, com um pezinho no ACE 🌈
 ![Nano](https://img.shields.io/badge/Nano-4A90E2?style=for-the-badge&logo=nano&logoColor=FFFFFF) ![VSCodium](https://img.shields.io/badge/vscodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white) ![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=cashapp&logoColor=white)
 
 # 📊GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Vndmtrx&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Vndmtrx&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&rank_icon=github&locale=pt-br) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vndmtrx&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&hide=pascal,apacheconf&locale=pt-br)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vndmtrx&theme=monokai&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vndmtrx&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vndmtrx&theme=transparent&hide_border=true&locale=pt-br&card_width=600)<br/>
