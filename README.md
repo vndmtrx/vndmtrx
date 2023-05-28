@@ -25,22 +25,22 @@ Maricona, quarentona, gay e cis, com um pezinho no ACE 🌈
 
 ## Dev
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-1A1A1A?style=for-the-badge&logo=rust&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-2E2E2E?style=for-the-badge&logo=markdown&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-1A1A1A?style=for-the-badge&logo=rust&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-2E2E2E?style=for-the-badge&logo=markdown&logoColor=white)
 
 ![Flask](https://img.shields.io/badge/Flask-2B2B2B?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&&logoColor=white) ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ## Infra/Devops
 
 
-![AWS](https://img.shields.io/badge/AWS-FCC624?style=for-the-badge&logo=amazon-aws&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-D42E20?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FCC624?style=for-the-badge&logo=amazon-aws&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-D42E20?style=for-the-badge&logo=redis&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
-![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-AB0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Vagrant](https://img.shields.io/badge/vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-AB0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ## Misc
 
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-053010?style=for-the-badge&logo=inkscape&logoColor=white)
+![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-053010?style=for-the-badge&logo=inkscape&logoColor=white) ![Tor Project](https://img.shields.io/badge/tor_project-7E4798?style=for-the-badge&logo=torproject&logoColor=white) ![Firefox](https://img.shields.io/badge/firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-A1153C?style=for-the-badge&logo=Raspberry-Pi)
 
