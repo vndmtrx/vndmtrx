@@ -8,7 +8,7 @@ Maricona, quarentona, gay e cis, com um pezinho no ACE 🌈
 - Defensor do *Software Livre*
 - *Hacktivista* nas horas vagas
 - Entusiasta de `Python`, `R` e `Rust`
-- Estudioso de Inteligência Artificial e LLMs
+- Estudioso de *Inteligência Artificial* e LLMs
 - *Altavista* era melhor que *Google*
 - Internet é só um grande *"Reclame Aqui"*
 - `Nano` é melhor que `Vim`
