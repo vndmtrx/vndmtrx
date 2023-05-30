@@ -49,6 +49,8 @@ Maricona, quarentona, gay e cis, com um pezinho no ACE 🌈
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-A1153C?style=for-the-badge&logo=Raspberry-Pi)
 
+![Firefox](https://img.shields.io/badge/lineage_os-167C80?style=for-the-badge&logo=lineageos&logoColor=white)
+
 # 📊GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Vndmtrx&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&rank_icon=github&locale=pt-br) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vndmtrx&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&hide=pascal,apacheconf&locale=pt-br)<br/>
