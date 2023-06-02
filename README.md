@@ -33,7 +33,7 @@ Maricona, quarentona, gay e cis, com um pezinho no ACE 🌈
 ## Infra/Devops
 
 
-![AWS](https://img.shields.io/badge/AWS-FCC624?style=for-the-badge&logo=amazon-aws&logoColor=black) ![Cloudflare](https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) ![VirtualBox](https://img.shields.io/badge/virtualbox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/virtualbox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FCC624?style=for-the-badge&logo=amazon-aws&logoColor=black) ![Cloudflare](https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ![Postgres](https://img.shields.io/badge/postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-D42E20?style=for-the-badge&logo=redis&logoColor=white) ![Solr](https://img.shields.io/badge/apache_solr-D9411E?style=for-the-badge&logo=apachesolr&logoColor=white)
 
