@@ -55,4 +55,4 @@ Maricona, quarentona, gay e cis, com um pezinho no ACE 🌈
 
 ![](https://github-readme-stats.vercel.app/api?username=Vndmtrx&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&rank_icon=github&locale=pt-br) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vndmtrx&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&hide=pascal,apacheconf&locale=pt-br)<br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://github-readme-streak-stats.herokuapp.com/?user=Vndmtrx&theme=transparent&hide_border=true&locale=pt-br&card_width=600)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vndmtrx&theme=transparent&hide_border=true&locale=pt-br&card_width=600)<br/>
