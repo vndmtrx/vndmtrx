@@ -45,7 +45,7 @@ Maricona, quarentona, gay e cis, com um pezinho no ACE 🌈
 
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-053010?style=for-the-badge&logo=inkscape&logoColor=white) ![Tor Project](https://img.shields.io/badge/tor_project-7E4798?style=for-the-badge&logo=torproject&logoColor=white) ![Firefox](https://img.shields.io/badge/firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)
 
-![Nano](https://img.shields.io/badge/Nano-4A90E2?style=for-the-badge&logo=nano&logoColor=FFFFFF) ![VSCodium](https://img.shields.io/badge/vscodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white) ![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Nano](https://img.shields.io/badge/Nano-4A90E2?style=for-the-badge&logo=nano&logoColor=FFFFFF) ![VSCodium](https://img.shields.io/badge/vscodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white)
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-A1153C?style=for-the-badge&logo=Raspberry-Pi)
 
