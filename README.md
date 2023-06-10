@@ -18,7 +18,7 @@ Maricona, quarentona, gay e cis, com um pezinho no ACE 🌈
 
 ![Antissocial](https://img.shields.io/badge/antissocial-5D0C8A?style=for-the-badge&logo=devrant&logoColor=white) ![Mastodon](https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)
 
-# 💻 Stack Tech
+# 💻 Tech Stack
 
 ## OS
 
