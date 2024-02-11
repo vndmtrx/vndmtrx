@@ -2,6 +2,7 @@
 *A Spherical Cow in a Vacuum*
 
 Maricona, quarentona, gay e cis, com um pezinho no ACE 🌈
+
 TEA nível de suporte 1, mas vocês não estão prontos para esta conversa.
 
 - **Goiano**, mas já morei em muito estado por ai
