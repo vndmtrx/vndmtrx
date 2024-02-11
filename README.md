@@ -24,13 +24,13 @@ TEA nível de suporte 1, mas vocês não estão prontos para esta conversa.
 
 ## OS
 
-![Linux](https://img.shields.io/badge/Linux-D6C400?style=for-the-badge&logo=linux&logoColor=black) ![Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white) ![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white) ![Rocky Linux](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-D6C400?style=for-the-badge&logo=linux&logoColor=black) ![Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
 
 ## Dev
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-1A1A1A?style=for-the-badge&logo=rust&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-2E2E2E?style=for-the-badge&logo=markdown&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/Java-008DB6?style=for-the-badge&logo=coffeescript&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-2E2E2E?style=for-the-badge&logo=markdown&logoColor=white)
 
-![Flask](https://img.shields.io/badge/Flask-2B2B2B?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&&logoColor=white) ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-2B2B2B?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ## Infra/Devops
 
@@ -41,7 +41,7 @@ TEA nível de suporte 1, mas vocês não estão prontos para esta conversa.
 
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-2088FF?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![Gitea](https://img.shields.io/badge/gitea-609926?style=for-the-badge&logo=gitea&logoColor=white)
 
-![Vagrant](https://img.shields.io/badge/vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-AB0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Vagrant](https://img.shields.io/badge/vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-AB0000?style=for-the-badge&logo=ansible&logoColor=white) ![Wireguard](https://img.shields.io/badge/Wireguard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
 
 ## Misc
 
