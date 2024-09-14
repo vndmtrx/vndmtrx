@@ -8,13 +8,11 @@ TEA nível de suporte 1, mas vocês não estão prontos para esta conversa.
 - **Goiano**, mas já morei em muito estado por ai
 - *Sysadmin* da época que aqui era tudo mato
 - Defensor do *Software Livre*
-- *Hacktivista* nas horas vagas
 - Entusiasta de `Python`, `R` e `Rust`
-- Estudioso de *Inteligência Artificial* e *LLMs*
 - *Altavista* era melhor que *Google*
 - Internet é só um grande *"Reclame Aqui"*
 - `Nano` é melhor que `Vim`
-- Voto `13` e se reclamar voto duas vezes
+- Meu prato preferido é pizza de burguês fatiado
 
 # 🌐 Social
 
