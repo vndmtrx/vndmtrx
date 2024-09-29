@@ -1,18 +1,15 @@
-# 💫 Sobre mim
-*A Spherical Cow in a Vacuum*
+# 💫 About me
 
-Maricona, quarentona, gay e cis, com um pezinho no ACE 🌈
+🐮 *A Spherical Cow in a Vacuum*
 
-TEA nível de suporte 1, mas vocês não estão prontos para esta conversa.
-
-- **Goiano**, mas já morei em muito estado por ai
-- *Sysadmin* da época que aqui era tudo mato
-- Defensor do *Software Livre*
-- Entusiasta de `Python`, `R` e `Rust`
-- *Altavista* era melhor que *Google*
-- Internet é só um grande *"Reclame Aqui"*
-- `Nano` é melhor que `Vim`
-- Meu prato preferido é pizza de burguês fatiado
+- 🖥️ Computer geek and open-source activist by nature, hacktivist supporter always
+- 🧠 My brain: 80% devops code, 20% cat videos
+- ☕ Fueled by: Coffee, curiosity, and the urge to build things
+- 🎭 Masking level: Jedi Master (thanks, autism!)
+- 🔍 Always looking for: Semicolons, equality, and my glasses
+- 💡 Hyperfocus activated by: Coding, activism, and shiny objects
+- 🌈 Spreading: Love, acceptance, and occasionally typos
+- ☭ I brew my own IPA (Incitation of Proletariat Action) with tears of defeated hedge fund managers
 
 # 🌐 Social
 
