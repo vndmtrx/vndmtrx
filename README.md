@@ -9,7 +9,8 @@
 - 🔍 Always looking for: Semicolons, equality, and my glasses
 - 💡 Hyperfocus activated by: Coding, activism, and shiny objects
 - 🌈 Spreading: Love, acceptance, and occasionally typos
-- ☭ I brew my own IPA (Incitation of Proletariat Action) with tears of defeated hedge fund managers
+- 🎯 Defending: FOSS because code, like society, should be free
+- ⚡ Brewing: Das Kapital on the rocks with a splash of expropriated assets
 
 # 🌐 Social
 
