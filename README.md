@@ -1,16 +1,15 @@
-# 💫 About me
-
+# 💫 Sobre euzinhe
 🐮 *A Spherical Cow in a Vacuum*
 
-- 🖥️ Computer geek and open-source activist by nature, hacktivist supporter always
-- 🧠 My brain: 80% devops code, 20% cat videos
-- ☕ Fueled by: Coffee, curiosity, and the urge to build things
-- 🎭 Masking level: Jedi Master (thanks, autism!)
-- 🔍 Always looking for: Semicolons, equality, and my glasses
-- 💡 Hyperfocus activated by: Coding, activism, and shiny objects
-- 🌈 Spreading: Love, acceptance, and occasionally typos
-- 🎯 Defending: FOSS because code, like society, should be free
-- ⚡ Brewing: Das Kapital on the rocks with a splash of expropriated assets
+- 🖥️ Devops hardcore e militante open-source, fechado com hacktivismo.
+- 🧠 Setup mental: 80% devops, 20% vídeos de doguinhos pra recarregar.
+- ☕ Runtime dependencies: Café, bad habits de criar projeto e caos.
+- 🎭 Social skill issue: Debuff permanente em blefar (é sobre isso, autismo things).
+- 🔍 Life TODO list: Corrigir sintaxe, igualdade social e meus óculos, ninguém sai!
+- 🌈 Espalhando: Amor, inclusão e uns bug na prod às vezes.
+- 🎯 Defendendo: Software Livre porque código, igual meios de produção, tem que ser do proletariado.
+- 🐕 Infrastructure as Code (IaC): Infrastructure as Canines também, mas essa config tá em private repo
+- ⚡ Gosto de: Das Kapital on the Rocks com um twist de expropriação. E de sushi.
 
 # 📊GitHub Stats
 
