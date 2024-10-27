@@ -12,10 +12,6 @@
 - 🎯 Defending: FOSS because code, like society, should be free
 - ⚡ Brewing: Das Kapital on the rocks with a splash of expropriated assets
 
-# 🌐 Social
-
-![Antissocial](https://img.shields.io/badge/antissocial-5D0C8A?style=for-the-badge&logo=devrant&logoColor=white) ![Mastodon](https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)
-
 # 📊GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Vndmtrx&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&rank_icon=github&locale=pt-br) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vndmtrx&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&hide=pascal,apacheconf&locale=pt-br)<br/>
