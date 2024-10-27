@@ -2,13 +2,13 @@
 🐮 *A Spherical Cow in a Vacuum*
 
 - 🖥️ Devops hardcore e militante open-source, fechado com hacktivismo.
+- 🐕 Infras as Code (IaC): Infra as Canines também, mas essa config tá em private repo.
 - 🧠 Setup mental: 80% devops, 20% vídeos de doguinhos pra recarregar.
 - ☕ Runtime dependencies: Café, bad habits de criar projeto e caos.
 - 🎭 Social skill issue: Debuff permanente em blefar (é sobre isso, autismo things).
 - 🔍 Life TODO list: Corrigir sintaxe, igualdade social e meus óculos, ninguém sai!
 - 🌈 Espalhando: Amor, inclusão, bandeirinhas LGBT e uns bug na prod às vezes.
 - 🎯 Defendendo: Software Livre! Porque código, igual meios de produção, tem que ser do proletariado.
-- 🐕 Infrastructure as Code (IaC): Infrastructure as Canines também, mas essa config tá em private repo.
 - ⚡ Gosto de: Das Kapital on the Rocks com um twist de expropriação. E de sushi.
 
 # 📊GitHub Stats
