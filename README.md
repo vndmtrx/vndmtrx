@@ -8,7 +8,7 @@
 - 🔍 Life TODO list: Corrigir sintaxe, igualdade social e meus óculos, ninguém sai!
 - 🌈 Espalhando: Amor, inclusão e uns bug na prod às vezes.
 - 🎯 Defendendo: Software Livre porque código, igual meios de produção, tem que ser do proletariado.
-- 🐕 Infrastructure as Code (IaC): Infrastructure as Canines também, mas essa config tá em private repo
+- 🐕 Infrastructure as Code (IaC): Infrastructure as Canines também, mas essa config tá em private repo.
 - ⚡ Gosto de: Das Kapital on the Rocks com um twist de expropriação. E de sushi.
 
 # 📊GitHub Stats
