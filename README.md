@@ -7,7 +7,7 @@
 - ☕ Runtime dependencies: Café, bad habits de criar projeto e caos.
 - 🎭 Social skill issue: Debuff permanente em blefar (é sobre isso, autismo things).
 - 🔍 Life TODO list: Corrigir sintaxe, igualdade social e meus óculos, ninguém sai!
-- 🌈 Espalhando: Amor, inclusão, bandeirinhas LGBT e uns bug na prod às vezes.
+- 🌈 Espalhando: Amor, inclusão, bandeirinhas LGBT e uns bug no prod às vezes.
 - 🎯 Defendendo: Software Livre! Porque código, igual meios de produção, tem que ser do proletariado.
 - ⚡ Gosto de: Das Kapital on the Rocks com um twist de expropriação. E de sushi.
 
