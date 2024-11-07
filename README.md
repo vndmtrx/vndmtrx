@@ -15,6 +15,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Vndmtrx&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&rank_icon=github&locale=pt-br) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vndmtrx&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&hide=pascal,apacheconf&locale=pt-br)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vndmtrx&theme=transparent&hide_border=true&locale=pt-br&card_width=600)<br/>
+![](https://streak-stats.demolab.com?user=Vndmtrx&theme=transparent&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=600)<br/>
 
 *Por: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
