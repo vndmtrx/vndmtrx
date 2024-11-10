@@ -5,7 +5,8 @@
 - 🐕 Infras as Code (IaC): Infra as Canines também, mas essa config tá em private repo.
 - 🧠 Setup mental: 80% devops, 20% vídeos de doguinhos pra recarregar.
 - ☕ Runtime dependencies: Café, bad habits de criar projeto e caos.
-- 🎭 Social skill issue: Debuff permanente em lidar com sons, luzes e lugares novos/pessoas desconhecidas (é sobre isso, autismo things).
+- 🎭 Hardware specs: Super poder reverso que faz som e luz virarem critical hit (autismo issue #1).
+- 🎭 Social skill issue: Debuff permanente em lugares novos/pessoas desconhecidas (autismo issue #2).
 - 🔍 Life TODO list: Corrigir sintaxe, igualdade social e meus óculos, ninguém sai!
 - 🌈 Espalhando: Amor, inclusão, bandeirinhas LGBT e uns bug no prod às vezes.
 - 🎯 Defendendo: Software Livre! Porque código, igual meios de produção, tem que ser do proletariado.
