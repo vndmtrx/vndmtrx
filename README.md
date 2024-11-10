@@ -4,12 +4,13 @@
 - 🖥️ Devops hardcore e militante open-source, fechado com hacktivismo.
 - 🐕 Infras as Code (IaC): Infra as Canines também, mas essa config tá em private repo.
 - 🧠 Setup mental: 80% devops, 20% vídeos de doguinhos pra recarregar.
-- ☕ Runtime dependencies: Café, bad habits de criar projeto e caos.
-- 🎭 Hardware specs: Super poder reverso que faz som e luz virarem critical hit (autismo issue #1).
-- 🎭 Social skill issue: Debuff permanente em lugares novos/pessoas desconhecidas (autismo issue #2).
+- ☕ System deps: Café, bad habits de criar projeto e caos.
+- 🤖 Hardware specs: Super poder reverso que faz som e luz virarem critical hit (autismo issue #1).
+- 🎭 Software runtime: Debuff permanente em lugares novos/pessoas desconhecidas (autismo issue #2).
 - 🔍 Life TODO list: Corrigir sintaxe, igualdade social e meus óculos, ninguém sai!
 - 🌈 Espalhando: Amor, inclusão, bandeirinhas LGBT e uns bug no prod às vezes.
 - 🎯 Defendendo: Software Livre! Porque código, igual meios de produção, tem que ser do proletariado.
+- ♍ Signo: Sol em Ateísmo com ascendente em Cinismo (source: trust me bro)
 - ⚡ Gosto de: Das Kapital on the Rocks com um twist de expropriação. E de sushi.
 
 # 📊GitHub Stats
