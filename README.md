@@ -8,6 +8,7 @@
 - 🤖 Hardware specs: Super poder reverso que faz som e luz virarem critical hit (autismo issue #1).
 - 🎭 Software runtime: Debuff permanente em lugares novos/pessoas desconhecidas (autismo issue #2).
 - 🔍 Life TODO list: Corrigir sintaxe, igualdade social e meus óculos, ninguém sai!
+- 🗣️ I18n status: pt_BR (native build), en (72.56% coverage), others (cloud L10n fallback).
 - 🌈 Espalhando: Amor, inclusão, bandeirinhas LGBT e uns bug no prod às vezes.
 - 🎯 Defendendo: Software Livre! Porque código, igual meios de produção, tem que ser do proletariado.
 - ♍ Signo: Sol em Ateísmo com ascendente em Cinismo (source: trust me bro).
