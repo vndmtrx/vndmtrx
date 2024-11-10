@@ -10,7 +10,7 @@
 - 🔍 Life TODO list: Corrigir sintaxe, igualdade social e meus óculos, ninguém sai!
 - 🌈 Espalhando: Amor, inclusão, bandeirinhas LGBT e uns bug no prod às vezes.
 - 🎯 Defendendo: Software Livre! Porque código, igual meios de produção, tem que ser do proletariado.
-- ♍ Signo: Sol em Ateísmo com ascendente em Cinismo (source: trust me bro)
+- ♍ Signo: Sol em Ateísmo com ascendente em Cinismo (source: trust me bro).
 - ⚡ Gosto de: Das Kapital on the Rocks com um twist de expropriação. E de sushi.
 
 # 📊GitHub Stats
