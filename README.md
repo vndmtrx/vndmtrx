@@ -5,7 +5,7 @@
 - 🐕 Infras as Code (IaC): Infra as Canines também, mas essa config tá em private repo.
 - 🧠 Setup mental: 80% devops, 20% vídeos de doguinhos pra recarregar.
 - ☕ System deps: Café, bad habits de criar projeto e caos.
-- 🤖 Hardware specs: Super poder reverso que faz som e luz virarem critical hit (autismo issue #1).
+- 🤖 Hardware specs: Super poder reverso que transforma som e luz em critical hit (autismo issue #1).
 - 🎭 Software runtime: Debuff permanente em lugares novos/pessoas desconhecidas (autismo issue #2).
 - 🔍 Life TODO list: Corrigir sintaxe, igualdade social e meus óculos, ninguém sai!
 - 🗣️ I18n status: pt_BR (native build), en (72.56% coverage), others (cloud L10n fallback).
