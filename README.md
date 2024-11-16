@@ -12,7 +12,7 @@
 - 🌈 Espalhando: Amor, inclusão, bandeirinhas LGBT e uns bug no prod às vezes.
 - 🎯 Defendendo: Software Livre! Porque código, igual meios de produção, tem que ser do proletariado.
 - ♍ Signo: Sol em Ateísmo com ascendente em Cinismo (source: trust me bro).
-- 🇻🇳 Gosto de: Das Kapital on the Rocks com um twist de expropriação. E de sushi. E de pequi. E de pamonha com jiló.
+- 🇻🇳 Gosto de: Sushi. E de pequi. E de pamonha com jiló. E de *Das Kapital* on the Rocks com um twist de expropriação.
 
 # 📊GitHub Stats
 
