@@ -2,7 +2,7 @@
 🐮 *A Spherical Cow in a Vacuum*
 
 - 🖥️ Devops hardcore e militante open-source, fechado com hacktivismo.
-- 🐕 *Infras as Code (IaC)*: Infra as Canines também, mas essa config tá em private repo.
+- 🐕 *Infra as Code (IaC)*: Infra as Canines também, mas essa config tá em private repo.
 - 🧠 *Setup mental*: 80% devops, 20% vídeos de doguinhos pra recarregar.
 - ☕ *System deps*: Café, bad habits de criar projeto e caos.
 - 🤖 *Hardware specs*: Super poder reverso que transforma som e luz em critical hit (autismo issue #1).
