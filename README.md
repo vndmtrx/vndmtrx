@@ -1,5 +1,5 @@
 # 💫 Sobre euzinhe
-🐮 *A Spherical Cow in a Vacuum*
+🐮 *A Spherical Cow in a Vacuum.*
 
 - 🖥️ Devops hardcore e militante open-source, fechado com hacktivismo.
 - 🐕 *Infra as Code (IaC)*: Infra as Canines também, mas essa config tá em private repo.
