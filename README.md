@@ -16,6 +16,8 @@
 - 🇻🇳 *Gosto de*: Sushi. E de pequi. E de pamonha com jiló. E de *Das Kapital* on the Rocks com um twist de expropriação.
 - 🚪 *Stdin handler*: SELinux em modo ultra_enforcing pra gente chata (BPF_DROP type=3 code=10).
 
+Se a criptografia fosse proibida, *fbzragr bf sbenf qn yrv grevnz cevinpvqnqr*
+
 # 📊GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Vndmtrx&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&rank_icon=github&locale=pt-br) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vndmtrx&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&hide=pascal,apacheconf&locale=pt-br)<br/>
