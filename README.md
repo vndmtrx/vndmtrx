@@ -20,8 +20,18 @@ Se a criptografia fosse proibida, *fbzragr bf sbenf qn yrv grevnz cevinpvqnqr*
 
 # 📊GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Vndmtrx&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&rank_icon=github&locale=pt-br) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vndmtrx&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&hide=pascal,apacheconf&locale=pt-br)<br/>
-
-![](https://streak-stats.demolab.com?user=Vndmtrx&theme=transparent&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=600)<br/>
-
-*Por: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vndmtrx&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&rank_icon=github&locale=pt-br" 
+       alt="GitHub stats" 
+       height="180" 
+       style="vertical-align:top; margin-right:40px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vndmtrx&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&hide=pascal,apacheconf&locale=pt-br&langs_count=8" 
+       alt="Linguagens mais usadas" 
+       height="180" 
+       style="vertical-align:top;"/>
+</p><br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vndmtrx&theme=transparent&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=600"
+       alt="Linguagens mais usadas"
+       style="vertical-align:top;"/><br/>
+</p>
