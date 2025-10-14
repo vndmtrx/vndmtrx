@@ -31,5 +31,6 @@ Se a criptografia fosse proibida, *fbzragr bf sbenf qn yrv grevnz cevinpvqnqr*
 </p><br/>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Vndmtrx&theme=transparent&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=600"
+       alt="Fluxo de commits" 
        style="vertical-align:top;"/>
 </p>
