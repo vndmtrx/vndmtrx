@@ -16,7 +16,7 @@
 - 🇻🇳 *Gosto de*: Sushi. E de pequi. E de pamonha com jiló. E de *Das Kapital* on the Rocks com um twist de expropriação.
 - 🚪 *Stdin handler*: SELinux em modo ultra_enforcing pra gente chata (BPF_DROP type=3 code=10).
 
-Se a criptografia fosse proibida, *fbzragr bf sbenf qn yrv grevnz cevinpvqnqr*
+🔑 Se a criptografia fosse proibida, *fbzragr bf sbenf qn yrv grevnz cevinpvqnqr*
 
 # 📊GitHub Stats
 
