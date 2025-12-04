@@ -17,20 +17,3 @@
 - 🚪 *Stdin handler*: SELinux em modo ultra_enforcing pra gente chata (BPF_DROP type=3 code=10).
 
 🔑 Se a criptografia fosse proibida, *fbzragr bf sbenf qn yrv grevnz cevinpvqnqr*
-
-# 📊GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vndmtrx&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&rank_icon=github&locale=pt-br&custom_title=" 
-       alt="GitHub stats" 
-       height="180" 
-       style="vertical-align:top; margin-right:40px;"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vndmtrx&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&hide=pascal,apacheconf&locale=pt-br&langs_count=8&custom_title=" 
-       alt="Linguagens mais usadas" 
-       height="180" 
-       style="vertical-align:top;"/>
-</p><br/>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vndmtrx&theme=transparent&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=600"
-       alt="Fluxo de commits" 
-       style="vertical-align:top;"/>
-</p>
