@@ -16,4 +16,6 @@
 - 🇻🇳 *Gosto de*: Sushi. E de pequi. E de pamonha com jiló. E um drink de *Karl Marx* on the Rocks.
 - 🚪 *Stdin handler*: SELinux em modo ultra_enforcing pra gente chata (BPF_DROP type=3 code=10).
 
+🌐 *Endpoint público*: [vndmtrx.github.io](https://vndmtrx.github.io)
+
 🔑 Se a criptografia fosse proibida, *fbzragr bf sbenf qn yrv grevnz cevinpvqnqr*
